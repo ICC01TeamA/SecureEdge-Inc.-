@@ -1,4 +1,4 @@
-# SecureEdge-Inc.-
+# SecureEdge-Inc.
 # SecureEdge Inc. Repository 
 ## About
 This is Team A's repository.
